@@ -1,23 +1,23 @@
 {
     
-    padding: 0px;
+    padding : 0px;
     margin: 0px;
     front-family: Arial, Helvetica, sans-serif;
     
 }
 body {
-    background-color: #a0a3b8; (250, 212, 218)
+    background-color: #3e9eec; (250, 212, 218)
 }
 #container {
     width: 80%;
     margin: 0px auto;
-    box-shadow: 0px 0px 10px gray;
-    border: 1px solid #4fd4ac;  (240, 159, 159)
+    box-shadow: 0px 0px 10px rgb(212, 15, 15);
+    border: 1px solid #003674;  (240, 159, 159)
 }
 
 #header {
     height: 145px;
-    background: #4fd4ac; 
+    background: #bb6c38; 
 }
 
 #logo {
@@ -30,15 +30,15 @@ body {
     font-size: 40px;
     letter-spacing: 4px;
     text-transform: uppercase;
-    color: white;
+    color: rgb(143, 20, 20);
     font-weight: bold;
     text-decoration: none;
     margin-top: 18px;
     margin-left: 25px;
-    text-shadow: 0px 2px 1px rgb(167, 67, 67);
+    text-shadow: 0px 2px 1px rgb(218, 40, 40);
     transition: all 300ms;
 
 #logo a:hover {
-    text-shadow: 0px 2px 1px rgb(255, 255, 255);
+    text-shadow: 0px 2px 1px rgb(42, 255, 173);
     
 }
