@@ -5,18 +5,18 @@
     
 }
 body{
-    background-color: #a80909; (250, 212, 218)
+    background-color: #0b8899; (250, 212, 218)
 }
 #container {
     width: 80%;
     margin: 0px auto;
-    box-shadow: 0px 0px 10px rgb(255, 255, 255);
+    box-shadow: 0px 0px 10px rgb(255, 250, 250);
     border: 1px solid #000000;  (240, 159, 159)
 }
 
 #header {
     height: 145px;
-    background: #ffffff; 
+    background: #b5b7bb; 
 }
 
 #logo {
@@ -93,3 +93,23 @@ body{
 
 }
 
+#lateral{
+    width: 20%;
+    min-height: 600px;
+    border: 1px solid #003674;
+    float: left;
+    margin-top: 20px;
+    margin-left: 10px;
+    border: 4px solid #b8c9dd;
+
+}
+
+#lateral .block_aside{
+    display: block;
+    width: 90%;
+    margin: 5px auto;
+    padding: 10px;
+    border : 1px solid #000000;
+
+
+}
